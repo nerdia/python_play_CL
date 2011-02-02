@@ -19,6 +19,7 @@ import numpy
 import math
 from scipy.io import wavfile
 
+# quick test comment
 
 # The smaller the modifier, the smaller the sampling size (1.0 = 1 second)
 rateModifier = 1.0 / 16.0
